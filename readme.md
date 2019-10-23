@@ -74,6 +74,7 @@ Step by step guides on using Ethereum.
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
 - [Flint Documentation](https://docs.flintlang.org/) - Contract orientated language for Ethereum in alpha state.
+- [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
 
 
 ## Learning and MOOCs
